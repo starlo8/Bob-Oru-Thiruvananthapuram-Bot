@@ -5,7 +5,20 @@ BOB - The bot is a fully offline, privacy-first desktop AI assistant driven by a
 ### 🌴 Trivandrum Slang Integration
 What sets BOB apart is his unique regional personality layer. Modeled with native **Thiruvananthapuram (Trivandrum) dialect and local slang mechanics**, BOB interacts like a true local:
 * **Visual Layer:** The GUI displays crisp, casual **Manglish layout** text using classic regional expressions like *Entheru, Aliya, Dei makkale, Scene aanu,* and *Set aanu*.
-* **Vocal Layer:** To prevent broken, robotic pronunciation, the code dynamically maps matching **native Malayalam script** directly to the text-to-speech driver(TTS at ouput also Speech to Text in input). 
+* **Vocal Layer:** To prevent broken, robotic pronunciation, the code dynamically maps matching **native Malayalam script** directly to the text-to-speech driver.
+
+  
+## ✨ Features
+
+✅ Text Input via Keyboard  
+✅ Voice Input via Microphone  
+✅ Speech-to-Text (STT) Conversion  
+✅ AI Responses using Gemini 2.5 Flash  
+✅ Text-to-Speech (TTS) Output  
+✅ Real-Time Conversation Interaction  
+✅ Timestamped Conversation Logging  
+✅ Easy-to-Use Console Interface  
+
 
 ### 🚀 Key Features
 * **100% Local Inference:** Runs completely offline with zero dependency on external cloud APIs or data tracking.

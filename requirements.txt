@@ -1,0 +1,6 @@
+customtkinter
+ollama
+gTTS
+pygame
+pydub
+SpeechRecognition

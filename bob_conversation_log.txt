@@ -1,6 +1,0 @@
---- GUI SESSION STARTED AT 2026-06-19 17:06:44.337006 ---
-[2026-06-19 17:06:44] Bob: Bob vannittundu! Entheru appi vendethu?
-[2026-06-19 17:06:55] You (Voice): who do you think will win the FIFA World Cup 2026
-[2026-06-19 17:06:58] Bob: Entheru machaa, I'm just Bob, not a psychic, but I'd guess it'll be a toss-up between Brazil, France, and Germany!... Set aanu!
-[2026-06-19 17:07:23] You: who is bob
-[2026-06-19 17:07:25] Bob: Aliya, I'm Bob, a helpful assistant here to assist you with any questions or tasks you may have!... Set aanu!
